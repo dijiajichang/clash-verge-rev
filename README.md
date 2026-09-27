@@ -62,9 +62,8 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 11+ (intel/apple).
 - 💰 极致**稳定**，亲民价**价格**
 - 🌐 全面支持**流媒体及各AI访问**
 - 🙋 7*12小时真人客服。不限速，不限设备。
-- 💰 入门套餐：人民币29.9，每月可用200G流量。
-🌐 官网：👉 [https://www.aiyunbian.com](https://www.aiyunbian.com)
--  📢嫌贵？找高性价比优质机场网站？ 👉 [这里来看](https://www.wsyj.com/s/jichang/)
+- 💰 入门套餐：人民币29.9，每月可用200G流量。  📢嫌贵？找高性价比优质机场网站？ 👉 [这里来看](https://www.wsyj.com/s/jichang/)
+- 🌐 官网：👉 [https://www.aiyunbian.com](https://www.aiyunbian.com)
 
 ### 🤖 [GPTKefu —— 与 Crisp 深度整合的 AI 智能客服平台](https://gptkefu.com)
 
