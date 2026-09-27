@@ -50,7 +50,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 11+ (intel/apple).
 
 ### ✈️ [AI云边 -- 全新架构机场 ClaudeBorder](https://diamond.54678999.xyz/#/register?code=yxRMOibZ)
 
-🔥热销中使用本链接注册即送 2 天免费试用**，每日 **1GB 流量**：👉 [点此注册](https://diamond.54678999.xyz/#/register?code=yxRMOibZ)
+🔥热销中使用本链接注册即送 2 天免费试用**，总共 **1GB 流量**：👉 [点此注册](https://diamond.54678999.xyz/#/register?code=yxRMOibZ)
 
 #### AI云边 -- 全新架构机场。
 
@@ -64,7 +64,7 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 11+ (intel/apple).
 - 🙋 7*12小时真人客服。不限速，不限设备。
 - 💰 入门套餐：人民币29.9，每月可用200G流量。
 🌐 官网：👉 [https://www.aiyunbian.com](https://www.aiyunbian.com)
- 📢嫌贵？找高性价比优质机场网站？ 👉 [这里来看](https://www.wsyj.com/s/jichang/)
+-  📢嫌贵？找高性价比优质机场网站？ 👉 [这里来看](https://www.wsyj.com/s/jichang/)
 
 ### 🤖 [GPTKefu —— 与 Crisp 深度整合的 AI 智能客服平台](https://gptkefu.com)
 
