@@ -48,22 +48,23 @@ Supports Windows (x64/x86), Linux (x64/arm64) and macOS 11+ (intel/apple).
 
 ## Promotion
 
-### ✈️ [AI云边 -- 全新架构机场 ClaudeBorder](https://cruise.54678999.xyz/#/register?code=58q5UJZc)
+### ✈️ [AI云边 -- 全新架构机场 ClaudeBorder](https://diamond.54678999.xyz/#/register?code=yxRMOibZ)
 
-🔥热销中使用本链接注册即送 3 天免费试用**，每日 **1GB 流量**：👉 [点此注册](https://cruise.54678999.xyz/#/register?code=58q5UJZc)
+🔥热销中使用本链接注册即送 2 天免费试用**，每日 **1GB 流量**：👉 [点此注册](https://diamond.54678999.xyz/#/register?code=yxRMOibZ)
 
 #### AI云边 -- 全新架构机场。
 
-- 💻 多次**技术迭代后**全新亮相。
-- 🗺 全**高速稳定**正价节点。
+- 💻 多次**技术迭代后**全新亮相。专线机场。
+- 🗺 全**高速稳定**正价节点。无审计，保障隐私。
 - 🌏 **海外团队**，不跑路
 - 🚀 线路**冗余**设计，自动化运维**对抗各类封锁
 - 👨‍🦲 团队架构师为**大厂**网络架构师
 - 💰 极致**稳定**，亲民价**价格**
 - 🌐 全面支持**流媒体及各AI访问**
-- 🙋 7*12小时真人客服。解决您的各类问题。
-
-🌐 官网：👉 [https://www.claudeborder.com](https://cruise.54678999.xyz/#/register?code=58q5UJZc)
+- 🙋 7*12小时真人客服。不限速，不限设备。
+- 💰 入门套餐：人民币29.9，每月可用200G流量。
+🌐 官网：👉 [https://www.aiyunbian.com](https://www.aiyunbian.com)
+ 📢嫌贵？找高性价比优质机场网站？ 👉 [这里来看](https://www.wsyj.com/s/jichang/)
 
 ### 🤖 [GPTKefu —— 与 Crisp 深度整合的 AI 智能客服平台](https://gptkefu.com)
 
